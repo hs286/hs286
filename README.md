@@ -1,5 +1,5 @@
 
-👋 Hi there! I'm Hamza Khalid, a Full Stack Web Developer passionate about creating awesome web applications and contributing to open-source projects.
+👋 Hi there! I'm Hamza Khalid, a Full Stack Web Developer with 3+ years of experience, passionate about creating awesome web applications and contributing to open-source projects.
 
 🔭 I’m currently working on enhancing my web development skills and exploring new technologies in the web development space.
 
